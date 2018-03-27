@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\Study\2017\Ki thuat ghep noi may tinh\PCB_No LCD_GHEPNOI\PCB1_GHEPNOI.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1_ghepnoi-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb1_ghepnoi-slotholes.txt|DrillLayers=gtl,gbl

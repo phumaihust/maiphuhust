@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=XTAL1 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=XTAL2 Pin=C11-2
+Added Component: Designator=C10(CN1)
+Added Component: Designator=C11(CN1)
+Added Pin To Net: NetName=XTAL1 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=XTAL2 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Member To Class: ClassName=Sheet1 Member=Component R12 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R13 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R14 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R15 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R16 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R17 Res1

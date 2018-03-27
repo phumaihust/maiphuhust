@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=P5-1
+Removed Pin From Net: NetName=VCC Pin=P5-2
+Removed Pin From Net: NetName=VR Pin=P5-3
+Removed Pin From Net: NetName=PB0 Pin=P5-4
+Removed Pin From Net: NetName=PB1 Pin=P5-5
+Removed Pin From Net: NetName=PB2 Pin=P5-6
+Removed Pin From Net: NetName=PB4 Pin=P6-3
+Removed Pin From Net: NetName=MOSI Pin=P6-4
+Removed Pin From Net: NetName=MISO Pin=P6-5
+Removed Pin From Net: NetName=SCK Pin=P6-6
+Removed Pin From Net: NetName=GND Pin=P6-8
+Removed Pin From Net: NetName=VCC Pin=R1-1
+Removed Member From Class: ClassName=Sheet1 Member=P5
+Removed Member From Class: ClassName=Sheet1 Member=P6
+Added Component: Designator=LCD1(LCD 16x2-A)
+Added Component: Designator=R1(R1/4W)
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=VCC Pin=LCD1-2
+Added Pin To Net: NetName=VR Pin=LCD1-3
+Added Pin To Net: NetName=PB0 Pin=LCD1-4
+Added Pin To Net: NetName=PB1 Pin=LCD1-5
+Added Pin To Net: NetName=PB2 Pin=LCD1-6
+Added Pin To Net: NetName=PB4 Pin=LCD1-11
+Added Pin To Net: NetName=MOSI Pin=LCD1-12
+Added Pin To Net: NetName=MISO Pin=LCD1-13
+Added Pin To Net: NetName=SCK Pin=LCD1-14
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=NetLCD1_15 Pin=LCD1-15
+Added Pin To Net: NetName=NetLCD1_15 Pin=R1-2
+Added Net: Name=NetLCD1_15
+Added Member To Class: ClassName=Sheet1 Member=Component LCD1 LCD 16x2

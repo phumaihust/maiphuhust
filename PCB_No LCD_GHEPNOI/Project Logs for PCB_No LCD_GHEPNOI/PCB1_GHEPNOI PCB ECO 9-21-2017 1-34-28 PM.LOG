@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetU2_2 Pin=Y1-1
+Removed Pin From Net: NetName=NetU2_1 Pin=Y1-2
+Removed Member From Class: ClassName=Sheet1 Member=Y1
+Added Component: Designator=Y?(XTAL32K)
+Added Pin To Net: NetName=NetU2_1 Pin=Y?-1
+Added Pin To Net: NetName=NetU2_2 Pin=Y?-2
+Added Member To Class: ClassName=Sheet1 Member=Component Y? 32.768KHz

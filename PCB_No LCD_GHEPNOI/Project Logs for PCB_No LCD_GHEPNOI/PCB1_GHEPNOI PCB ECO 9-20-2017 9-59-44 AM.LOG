@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=HD1-1
+Removed Pin From Net: NetName=VCC Pin=HD1-2
+Removed Pin From Net: NetName=VR Pin=HD1-3
+Removed Pin From Net: NetName=PB0 Pin=HD1-4
+Removed Pin From Net: NetName=PB1 Pin=HD1-5
+Removed Pin From Net: NetName=PB2 Pin=HD1-6
+Removed Pin From Net: NetName=PB4 Pin=HD2-3
+Removed Pin From Net: NetName=GND Pin=HD2-8
+Removed Pin From Net: NetName=VCC Pin=R6-1
+Removed Member From Class: ClassName=Sheet1 Member=HD1
+Removed Member From Class: ClassName=Sheet1 Member=HD2
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Added Component: Designator=P5(HDR1X8)
+Added Component: Designator=P6(HDR1X8)
+Added Component: Designator=R1(R1/4W)
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=VCC Pin=P5-2
+Added Pin To Net: NetName=VR Pin=P5-3
+Added Pin To Net: NetName=PB0 Pin=P5-4
+Added Pin To Net: NetName=PB1 Pin=P5-5
+Added Pin To Net: NetName=PB2 Pin=P5-6
+Added Pin To Net: NetName=PB4 Pin=P6-3
+Added Pin To Net: NetName=MOSI Pin=P6-4
+Added Pin To Net: NetName=MISO Pin=P6-5
+Added Pin To Net: NetName=SCK Pin=P6-6
+Added Pin To Net: NetName=GND Pin=P6-8
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=NetP6_7 Pin=P6-7
+Added Pin To Net: NetName=NetP6_7 Pin=R1-2
+Added Net: Name=NetP6_7
+Added Member To Class: ClassName=Sheet1 Member=Component P5 Header 8
+Added Member To Class: ClassName=Sheet1 Member=Component P6 Header 8
+Added Member To Class: ClassName=Sheet1 Member=Component R1 220
+Added Room: Name=Sheet1

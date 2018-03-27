@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: F:\Study\2017\Ki thuat ghep noi may tinh\PCB_No LCD_GHEPNOI\PCB1_GHEPNOI.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=12.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=15.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
